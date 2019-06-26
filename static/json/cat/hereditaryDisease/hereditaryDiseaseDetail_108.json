@@ -1,0 +1,50 @@
+{
+  "code": 0,
+  "msg": "成功",
+  "data": {
+    "geneticDisease": {
+      "id": 1,
+      "name": "视网膜萎缩一型",
+      "imageUrl": "/static/img/reportCat/hereditaryDisease/08.jpg",
+      "introduction": "猫视网膜萎缩症是由于CEP290基因突变导致的常染色体隐性遗传病。患病猫在出生时视力正常，此后视网膜上的光感受器逐渐萎缩，最早在七个月即可通过视网膜电流图（ERG）检查监测到病变的发生。通常患病猫在1.5-2岁时开始出现症状，如夜间视力降低以及由于视力减退导致的一些怪异行为等。该病发展的快慢及严重程度在不同个体间差异较大，但据统计，绝大多数猫在3-5岁时会最终失明。",
+      "testResult1": "非常严重",
+      "testResult2": "暹罗猫、新加坡猫、泰国猫、索马里猫、塞舌尔猫、孟加拉猫、美国卷耳猫、柯尼斯卷毛猫、爪哇猫、东奇尼猫、东方短毛猫、彼得秃猫、巴厘猫、奥西猫、阿比西尼亚猫、曼基康猫、重点色短毛猫",
+      "testResult3": "1.5-2岁在眼球周边略有灰色的变色绒毡层；夜间视力减退 ；3-7岁导致失明",
+      "testResult4": "视网膜变性，眼球周边略有灰色的变色绒毡层；夜间视力降低以及失明。",
+      "testResult5": "到目前为止没有有效的治疗方法，只能在繁育或出生前进行基因筛查来预防。该病在暹罗猫中发病率较高，调查结果显示，三分之一的暹罗猫携带有该致病基因。因此，暹罗猫及任何含有暹罗猫血统的猫都应注意对渐进性视网膜萎缩I型的预防。",
+      "deleted": false,
+      "createTime": "2017-05-09 10:05:16",
+      "updateTime": "2018-04-21 08:57:52",
+      "code": "A00001",
+      "aliasName": " Platelet disorder of Greater Swiss Mountain Dog，Bleeding disorder due to P2RY12 defect",
+      "mutationType": "3 bp deletion (del CTC)",
+      "engName": "P2RY12 receptor platelet disorder",
+      "section": "SINGLEGENE_DISEASE",
+      "type": "眼部疾病",
+      "geneticModel": "常染色体不完全隐性性遗传",
+      "gene": "P2RY12",
+      "severity": 2,
+      "susceptibleVarietiesName": "大瑞士山地犬",
+      "susceptibleVarietiesEngName": "Greater Swiss Mountain Dog",
+      "detail": "",
+      "references": "",
+      "carriedMedicationGuidance": "",
+      "notCarriedMedicationGuidance": ""
+    },
+    "dogNickName": "FULI",
+    "reportDisease": {
+      "id": 172,
+      "deleted": false,
+      "createTime": "2017-07-21 16:53:36",
+      "updateTime": "2018-05-11 10:07:48",
+      "reportId": 1,
+      "sampleNumber": "0000000000000001",
+      "diseaseCode": "A00001",
+      "diseaseName": "P2RY12受体血小板障碍",
+      "diseaseType": "眼部疾病",
+      "geneType": "AC",
+      "riskTimes": null,
+      "carry": false
+    }
+  }
+}

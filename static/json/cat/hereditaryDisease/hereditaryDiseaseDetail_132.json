@@ -1,0 +1,50 @@
+{
+  "code": 0,
+  "msg": "成功",
+  "data": {
+    "geneticDisease": {
+      "id": 1,
+      "name": "GM1神经节苷脂贮积症",
+      "imageUrl": "/static/img/reportCat/hereditaryDisease/32.jpg",
+      "introduction": "猫GM1神经节苷脂贮积症是一种致命的常染色体隐性遗传性神经退行性疾病，是由于溶酶体贮积功能障碍引起的。酶缺乏导致神经元和胶质细胞溶酶体中底物过度积累，导致细胞功能障碍、变性和最终的神经元死亡。该病的第一个症状是头部或肢体轻微震颤，并进一步发展到失明和癫痫严重症状。受影响的猫最多活到9到10个月。",
+      "testResult1": "严重",
+      "testResult2": "英国短毛猫、暹罗猫、泰国猫、混合品种",
+      "testResult3": "3-5 个月",
+      "testResult4": "头部或身体轻微震颤发展到严重的动态问题、癫痫、失明。",
+      "testResult5": "到目前为止没有有效的治疗方法，只能在繁育或出生前进行基因筛查来预防。",
+      "deleted": false,
+      "createTime": "2017-05-09 10:05:16",
+      "updateTime": "2018-04-21 08:57:52",
+      "code": "A00001",
+      "aliasName": " Platelet disorder of Greater Swiss Mountain Dog，Bleeding disorder due to P2RY12 defect",
+      "mutationType": "3 bp deletion (del CTC)",
+      "engName": "P2RY12 receptor platelet disorder",
+      "section": "SINGLEGENE_DISEASE",
+      "type": "神经障碍",
+      "geneticModel": "常染色体不完全隐性性遗传",
+      "gene": "P2RY12",
+      "severity": 2,
+      "susceptibleVarietiesName": "大瑞士山地犬",
+      "susceptibleVarietiesEngName": "Greater Swiss Mountain Dog",
+      "detail": "",
+      "references": "",
+      "carriedMedicationGuidance": "",
+      "notCarriedMedicationGuidance": ""
+    },
+    "dogNickName": "FULI",
+    "reportDisease": {
+      "id": 172,
+      "deleted": false,
+      "createTime": "2017-07-21 16:53:36",
+      "updateTime": "2018-05-11 10:07:48",
+      "reportId": 1,
+      "sampleNumber": "0000000000000001",
+      "diseaseCode": "A00001",
+      "diseaseName": "P2RY12受体血小板障碍",
+      "diseaseType": "神经障碍",
+      "geneType": "AC",
+      "riskTimes": null,
+      "carry": false
+    }
+  }
+}

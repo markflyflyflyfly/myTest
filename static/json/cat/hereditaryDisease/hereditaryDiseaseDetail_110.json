@@ -1,0 +1,50 @@
+{
+  "code": 0,
+  "msg": "成功",
+  "data": {
+    "geneticDisease": {
+      "id": 1,
+      "name": "渐进性视网膜萎缩二型",
+      "imageUrl": "/static/img/reportCat/hereditaryDisease/10.jpg",
+      "introduction": "猫杆-锥发育不良型（Rdy）的早发性视网膜萎缩是由CRX基因中的一个有害突变导致的，该基因是眼睛发育过程中的一个重要基因，属常染色体显性遗传病。携带一份或者两份致病基因都可导致患病。患病猫视网膜中的感光细胞萎缩，在出生后两周就可表现出瞳孔放大和对光反应迟钝的早期症状，通常在7周以前就会失明。",
+      "testResult1": "非常严重",
+      "testResult2": "阿比西尼亚猫、奥西猫、索马里猫",
+      "testResult3": "出生2-7周",
+      "testResult4": "视网膜变性失明。",
+      "testResult5": "到目前为止没有有效的治疗方法，只能在繁育或出生前进行基因筛查来预防。",
+      "deleted": false,
+      "createTime": "2017-05-09 10:05:16",
+      "updateTime": "2018-04-21 08:57:52",
+      "code": "A00001",
+      "aliasName": " Platelet disorder of Greater Swiss Mountain Dog，Bleeding disorder due to P2RY12 defect",
+      "mutationType": "3 bp deletion (del CTC)",
+      "engName": "P2RY12 receptor platelet disorder",
+      "section": "SINGLEGENE_DISEASE",
+      "type": "眼部疾病",
+      "geneticModel": "常染色体不完全隐性性遗传",
+      "gene": "P2RY12",
+      "severity": 2,
+      "susceptibleVarietiesName": "大瑞士山地犬",
+      "susceptibleVarietiesEngName": "Greater Swiss Mountain Dog",
+      "detail": "",
+      "references": "",
+      "carriedMedicationGuidance": "",
+      "notCarriedMedicationGuidance": ""
+    },
+    "dogNickName": "FULI",
+    "reportDisease": {
+      "id": 172,
+      "deleted": false,
+      "createTime": "2017-07-21 16:53:36",
+      "updateTime": "2018-05-11 10:07:48",
+      "reportId": 1,
+      "sampleNumber": "0000000000000001",
+      "diseaseCode": "A00001",
+      "diseaseName": "P2RY12受体血小板障碍",
+      "diseaseType": "眼部疾病",
+      "geneType": "AC",
+      "riskTimes": null,
+      "carry": false
+    }
+  }
+}

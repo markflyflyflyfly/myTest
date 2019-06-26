@@ -1,0 +1,120 @@
+{
+  "code": 0,
+  "msg": "成功",
+  "data": {
+    "reportMain": {
+      "totalBreedNum": 3,
+      "nickName": "FULI",
+      "mainBreedNum": 3,
+      "headImage": "http://cdn.genefamily.com.cn/idc06762534-b6c4-45c6-8730-469e4141cc5a.jpg",
+      "chromosomeImage": "/static/img/reportCat/parentage/rst_04.png",
+      "wolfRankPassPercent": "98",
+      "wolfPercent": 5.78
+    },
+    "mother": {
+      "id": 2,
+      "deleted": false,
+      "createTime": "2017-07-21 14:35:41",
+      "updateTime": "2017-08-10 16:56:06",
+      "type": "MOTHER",
+      "code": "A",
+      "migrateImage": "http://cdn.genefamily.com.cn/idcbc7f37ba-4b6f-4cf9-839f-9b4c6a3c48a4.jpg",
+      "description": "A是一个非常古老的母系分支，很可能是约1万5千年前最早驯化的家狗的主要母源之一。\n\n\n\n"
+    },
+    "nickName": "萌萌",
+    "headImage": "/static/img/cat/QJ6697747528.png",
+    "father": {
+      "id": 1,
+      "deleted": false,
+      "createTime": "2017-07-21 14:34:31",
+      "updateTime": "2017-08-10 16:55:50",
+      "type": "FATHER",
+      "code": "F",
+      "migrateImage": "/static/img/reportCat/parentage/parentage_02.png",
+      "description": "F是家犬父系分支中一个奇葩。该分支在遗传上更接近野生的灰狼，而不是其他家狗。这意味着它是在狗最早驯化之后才成为狗群体中一员的，很可能的情况是约6000年前一只特别有吸引力的母狼爱上了一只公狗，传承下来这一分支。"
+    },
+    "familyTree": {
+      "P1": {
+        "image": "/static/img/cat/QJ6697747528_07.png",
+        "categoryName": "比熊犬1",
+        "categoryId": 11
+      },
+      "P2": {
+        "image": "/static/img/cat/QJ6697747528_13.png",
+        "categoryName": "比熊犬2",
+        "categoryId": 11
+      },
+      "G1": {
+        "image": "/static/img/cat/QJ6697747528_05.png",
+        "categoryName": "比熊犬3",
+        "categoryId": 11
+      },
+      "G2": {
+        "image": "/static/img/cat/QJ6697747528_03.png",
+        "categoryName": "比熊犬4",
+        "categoryId": 11
+      },
+      "G3": {
+        "image": "/static/img/cat/QJ6697747528_10.png",
+        "categoryName": "玩具贵宾5",
+        "categoryId": 138
+      },
+      "G4": {
+        "image": "/static/img/cat/QJ6697747528_12.png",
+        "categoryName": "迷你贵宾6",
+        "categoryId": 139
+      },
+      "GG1": {
+        "image": "/static/img/cat/QJ6697747528_06.png",
+        "categoryName": "比熊犬7",
+        "categoryId": 11
+      },
+      "GG3": {
+        "image": "/static/img/cat/QJ6697747528_01.png",
+        "categoryName": "比熊犬8",
+        "categoryId": 11
+      },
+      "GG2": {
+        "image": "/static/img/cat/QJ6697747528_04.png",
+        "categoryName": "比熊犬9",
+        "categoryId": 11
+      },
+      "GG5": {
+        "image": "/static/img/cat/QJ6697747528_08.png",
+        "categoryName": "玩具贵宾10",
+        "categoryId": 138
+      },
+      "GG4": {
+        "image": "/static/img/cat/QJ6697747528_02.png",
+        "categoryName": "比熊犬11",
+        "categoryId": 11
+      },
+      "GG7": {
+        "image": "/static/img/cat/QJ6697747528_11.png",
+        "categoryName": "迷你贵宾12",
+        "categoryId": 139
+      },
+      "GG6": {
+        "image": "/static/img/cat/QJ6697747528_09.png",
+        "categoryName": "玩具贵宾13",
+        "categoryId": 138
+      },
+      "GG8": {
+        "image": "/static/img/cat/QJ6697747528_11.png",
+        "categoryName": "迷你贵宾14",
+        "categoryId": 139
+      }
+    },
+    "reportCount": {
+      "all": 220,
+      "parentage": 4,
+      "parentingadvice": 4,
+      "hereditaryDisease": 143,
+      "health": 10,
+      "nutritionmetabolism": 4,
+      "geneticcharacteristics": 6,
+      "drugsguide": 46,
+      "breed": 5
+    }
+  }
+}

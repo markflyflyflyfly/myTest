@@ -1,0 +1,29 @@
+{
+  "code": 0,
+  "msg": "成功",
+  "data": {
+    "dogNickName": "FULI",
+    "gene": "ABCB1",
+    "geneType": "AA",
+    "isCarry": true,
+    "reportCount": {
+      "all": 222,
+      "parentage": 2,
+      "parentingadvice": 4,
+      "hereditaryDisease": 145,
+      "health": 10,
+      "nutritionmetabolism": 4,
+      "geneticcharacteristics": 6,
+      "drugsguide": 2,
+      "breed": 5
+    },
+    "shapeCharacterList": [{
+      "id": 172,
+      "testGene": "ABCB1",
+      "hereditaryType": "常染色体隐性遗传",
+      "geneType": "A/C",
+      "testResult": "携带药物敏感基因",
+      "deleted": false
+    }]
+  }
+}

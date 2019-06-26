@@ -1,0 +1,50 @@
+{
+  "code": 0,
+  "msg": "成功",
+  "data": {
+    "geneticDisease": {
+      "id": 1,
+      "name": "二氢嘧啶酶缺乏症",
+      "imageUrl": "/static/img/reportCat/hereditaryDisease/27.jpg",
+      "introduction": "猫二氢嘧啶酶缺乏症由二氢嘧啶酶缺乏引起的一种罕见的常染色体隐性遗传性疾病。  二氢嘧啶酶通常参与嘧啶碱和某些药物的分解。本病的临床症状包括嗜睡、虚弱、呕吐和高氨血症。给猫喂养高蛋白食物会使病情恶化。该疾病在家猫身上已报道。",
+      "testResult1": "中度",
+      "testResult2": "混合品种",
+      "testResult3": "",
+      "testResult4": "嗜睡、虚弱、呕吐。",
+      "testResult5": "控制高蛋白食物的喂养。",
+      "deleted": false,
+      "createTime": "2017-05-09 10:05:16",
+      "updateTime": "2018-04-21 08:57:52",
+      "code": "A00001",
+      "aliasName": " Platelet disorder of Greater Swiss Mountain Dog，Bleeding disorder due to P2RY12 defect",
+      "mutationType": "3 bp deletion (del CTC)",
+      "engName": "P2RY12 receptor platelet disorder",
+      "section": "SINGLEGENE_DISEASE",
+      "type": "代谢紊乱",
+      "geneticModel": "常染色体不完全隐性性遗传",
+      "gene": "P2RY12",
+      "severity": 2,
+      "susceptibleVarietiesName": "大瑞士山地犬",
+      "susceptibleVarietiesEngName": "Greater Swiss Mountain Dog",
+      "detail": "",
+      "references": "",
+      "carriedMedicationGuidance": "",
+      "notCarriedMedicationGuidance": ""
+    },
+    "dogNickName": "FULI",
+    "reportDisease": {
+      "id": 172,
+      "deleted": false,
+      "createTime": "2017-07-21 16:53:36",
+      "updateTime": "2018-05-11 10:07:48",
+      "reportId": 1,
+      "sampleNumber": "0000000000000001",
+      "diseaseCode": "A00001",
+      "diseaseName": "P2RY12受体血小板障碍",
+      "diseaseType": "代谢紊乱",
+      "geneType": "AC",
+      "riskTimes": null,
+      "carry": false
+    }
+  }
+}

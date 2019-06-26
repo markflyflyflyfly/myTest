@@ -1,0 +1,50 @@
+{
+  "code": 0,
+  "msg": "成功",
+  "data": {
+    "geneticDisease": {
+      "id": 1,
+      "name": "先天性无毛症",
+      "imageUrl": "/static/img/reportCat/hereditaryDisease/07.jpg",
+      "introduction": "猫先天性无毛症是由在Foxn1基因点突变引起的常染色体隐性遗传病。此遗传病导致多器官淋巴组织和胸腺发育异常。患病幼猫出生时浑身没有毛发或仅有薄薄一层绒毛。出生后存活的幼猫发育脆弱，表现出短而稀疏的皮毛，皱纹、油腻的皮肤。无毛幼猫抵抗力低，感染性高从而导致死亡。一些患病小猫甚至在出生后就会立即死亡。少部分患病猫可能会在出生后两个月内长出一些稀疏的毛发，但是大部分会一直保持全秃状态。大部分患病个体在三个月内就会由于免疫系统发育不完善而被各种感染夺去生命。",
+      "testResult1": "非常严重",
+      "testResult2": "伯曼猫",
+      "testResult3": "新生幼猫",
+      "testResult4": "出生后的幼猫无毛或薄薄一层绒毛。胡须及趾甲缺失以及舌头表面的异常等。",
+      "testResult5": "到目前为止没有有效的治疗方法，只能在繁育或出生前进行基因筛查来预防。",
+      "deleted": false,
+      "createTime": "2017-05-09 10:05:16",
+      "updateTime": "2018-04-21 08:57:52",
+      "code": "A00001",
+      "aliasName": " Platelet disorder of Greater Swiss Mountain Dog，Bleeding disorder due to P2RY12 defect",
+      "mutationType": "3 bp deletion (del CTC)",
+      "engName": "P2RY12 receptor platelet disorder",
+      "section": "SINGLEGENE_DISEASE",
+      "type": "免疫失调",
+      "geneticModel": "常染色体不完全隐性性遗传",
+      "gene": "P2RY12",
+      "severity": 2,
+      "susceptibleVarietiesName": "大瑞士山地犬",
+      "susceptibleVarietiesEngName": "Greater Swiss Mountain Dog",
+      "detail": "",
+      "references": "",
+      "carriedMedicationGuidance": "",
+      "notCarriedMedicationGuidance": ""
+    },
+    "dogNickName": "FULI",
+    "reportDisease": {
+      "id": 172,
+      "deleted": false,
+      "createTime": "2017-07-21 16:53:36",
+      "updateTime": "2018-05-11 10:07:48",
+      "reportId": 1,
+      "sampleNumber": "0000000000000001",
+      "diseaseCode": "A00001",
+      "diseaseName": "P2RY12受体血小板障碍",
+      "diseaseType": "免疫失调",
+      "geneType": "AC",
+      "riskTimes": null,
+      "carry": false
+    }
+  }
+}

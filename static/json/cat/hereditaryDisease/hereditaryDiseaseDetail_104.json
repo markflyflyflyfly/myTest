@@ -1,0 +1,50 @@
+{
+  "code": 0,
+  "msg": "成功",
+  "data": {
+    "geneticDisease": {
+      "id": 1,
+      "name": "肥厚性心肌病",
+      "imageUrl": "/static/img/reportCat/hereditaryDisease/hereditary_disease_01.png",
+      "introduction": "猫肥厚性心脏病是家猫中最常见的一种心脏病，属常染色体显性遗传。它的特点是左心室和室间隔的壁厚增厚，导致充血性心力衰竭。此遗传病是由MYBPC3基因点突变导致的。现在已经在布偶猫和缅因猫基因中发现两个位点突变。",
+      "testResult1": "非常严重",
+      "testResult2": "缅因猫、布偶猫",
+      "testResult3": "缅因猫  5-7岁,布偶猫   1-2岁",
+      "testResult4": "充血性心力衰竭如呼吸急促、运动不耐、血栓栓塞 、左心室壁增厚。",
+      "testResult5": "目前对此病尚无任何治疗手段。肥厚型心肌病是一种非常严重的病，育种前种猫进行基因检测挑选优良基因育种，避免把致病基因传递给下一代。不建议用携带肥厚型心肌病的猫进行繁殖，父母和兄弟姐妹应该仔细检查这些特征，并进行基因筛查。",
+      "deleted": false,
+      "createTime": "2017-05-09 10:05:16",
+      "updateTime": "2018-04-21 08:57:52",
+      "code": "A00001",
+      "aliasName": " Platelet disorder of Greater Swiss Mountain Dog，Bleeding disorder due to P2RY12 defect",
+      "mutationType": "3 bp deletion (del CTC)",
+      "engName": "P2RY12 receptor platelet disorder",
+      "section": "SINGLEGENE_DISEASE",
+      "type": "心脏病",
+      "geneticModel": "常染色体不完全隐性性遗传",
+      "gene": "P2RY12",
+      "severity": 2,
+      "susceptibleVarietiesName": "大瑞士山地犬",
+      "susceptibleVarietiesEngName": "Greater Swiss Mountain Dog",
+      "detail": "",
+      "references": "",
+      "carriedMedicationGuidance": "",
+      "notCarriedMedicationGuidance": ""
+    },
+    "dogNickName": "FULI",
+    "reportDisease": {
+      "id": 172,
+      "deleted": false,
+      "createTime": "2017-07-21 16:53:36",
+      "updateTime": "2018-05-11 10:07:48",
+      "reportId": 1,
+      "sampleNumber": "0000000000000001",
+      "diseaseCode": "A00001",
+      "diseaseName": "P2RY12受体血小板障碍",
+      "diseaseType": "心脏病",
+      "geneType": "AC",
+      "riskTimes": null,
+      "carry": true
+    }
+  }
+}

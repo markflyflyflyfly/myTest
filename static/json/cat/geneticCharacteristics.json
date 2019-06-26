@@ -1,0 +1,223 @@
+{
+  "code": 0,
+  "msg": "成功",
+  "data": {
+    "dogNickName": "萌萌",
+    "dogHeadImage": "http://cdn.genefamily.com.cn/idc06762534-b6c4-45c6-8730-469e4141cc5a.jpg",
+    "geneList": [{
+      "id": 172,
+      "relatedGene": "棕色基因",
+      "geneType": "B/b",
+      "deleted": false
+    }, {
+      "id": 173,
+      "relatedGene": "红色基因",
+      "geneType": "o/Y",
+      "deleted": false
+    }, {
+      "id": 174,
+      "relatedGene": "稀释基因",
+      "geneType": "D/d",
+      "deleted": false
+    }, {
+      "id": 175,
+      "relatedGene": "纯色基因",
+      "geneType": "a/a",
+      "deleted": false
+    }, {
+      "id": 175,
+      "relatedGene": "重点色基因",
+      "geneType": "C/C",
+      "deleted": false
+    }, {
+      "id": 175,
+      "relatedGene": "毛色抑制基因",
+      "geneType": "i/i",
+      "deleted": false
+    }, {
+      "id": 175,
+      "relatedGene": "全白基因",
+      "geneType": "w/w",
+      "deleted": false
+    }, {
+      "id": 175,
+      "relatedGene": "白色斑点基因",
+      "geneType": "s/s",
+      "deleted": false
+    }, {
+      "id": 175,
+      "relatedGene": "白手套基因",
+      "geneType": "G/G",
+      "deleted": false
+    }, {
+      "id": 175,
+      "relatedGene": "麻纹基因",
+      "geneType": "Ti+/ Ti+",
+      "deleted": false
+    }, {
+      "id": 175,
+      "relatedGene": "斑纹基因",
+      "geneType": "Tab/Tab",
+      "deleted": false
+    }, {
+      "id": 175,
+      "relatedGene": "琥珀色基因",
+      "geneType": "E/E",
+      "deleted": false
+    }],
+    "furColorGeneList": [{
+      "id": 172,
+      "testContent": "长毛",
+      "testGene": "FGF5",
+      "testResult": "M3/M4",
+      "resultRemark": "含有长毛基因",
+      "deleted": false
+    }, {
+      "id": 173,
+      "testContent": "",
+      "testGene": "FGF5 c.475A>C (M4 allele)",
+      "testResult": "A/C",
+      "resultRemark": "携带一份长毛基因突变",
+      "deleted": false
+    }, {
+      "id": 174,
+      "testContent": "",
+      "testGene": "FGF5 c.406C>T (M2 allele)",
+      "testResult": "C/C",
+      "resultRemark": "未检出M2突变",
+      "deleted": false
+    }, {
+      "id": 175,
+      "testContent": "",
+      "testGene": "FGF5 c.ins356T (M1 allele)",
+      "testResult": "DEL/DEL",
+      "resultRemark": "未检出 M1 突变",
+      "deleted": false
+    }, {
+      "id": 175,
+      "testContent": "",
+      "testGene": "FGF5 c.474delT (M3 allele)",
+      "testResult": "D/I",
+      "resultRemark": "检测出  M3 突变",
+      "deleted": false
+    }, {
+      "id": 175,
+      "testContent": "卷毛",
+      "testGene": "KRT71 c.445-1C",
+      "testResult": "N/N",
+      "resultRemark": "检测出卷毛基因",
+      "deleted": false
+    }, {
+      "id": 175,
+      "testContent": "",
+      "testGene": "LPAR6 c.250_253_delTTTG",
+      "testResult": "N/N",
+      "resultRemark": "检测出卷毛基因",
+      "deleted": false
+    }],
+    "shapeCharacterList": [{
+      "id": 172,
+      "testContent": "多趾",
+      "testGene": "",
+      "testResult": "N/N",
+      "resultRemark": "未检测多指基因",
+      "deleted": false
+    }, {
+      "id": 173,
+      "testContent": "",
+      "testGene": "SHH c.479A>G (Hw allele)",
+      "testResult": "A/A",
+      "resultRemark": "未检测多指基因",
+      "deleted": false
+    }, {
+      "id": 174,
+      "testContent": "",
+      "testGene": "SHH c.481A>T (UK2 allele)",
+      "testResult": "A/A",
+      "resultRemark": "未检测多指基因",
+      "deleted": false
+    }, {
+      "id": 175,
+      "testContent": "",
+      "testGene": "SHH c.257G>C (UK1 allele)",
+      "testResult": "G/G",
+      "resultRemark": "未检测多指基因",
+      "deleted": false
+    }, {
+      "id": 175,
+      "testContent": "短尾",
+      "testGene": "T",
+      "testResult": "N/N",
+      "resultRemark": "未检测出短尾基因",
+      "deleted": false
+    }, {
+      "id": 175,
+      "testContent": "",
+      "testGene": "T c.998T>del",
+      "testResult": "-/-",
+      "resultRemark": "未检测出短尾基因",
+      "deleted": false
+    }, {
+      "id": 175,
+      "testContent": "",
+      "testGene": "T c.1169C>del",
+      "testResult": "-/-",
+      "resultRemark": "未检测出短尾基因",
+      "deleted": false
+    }, {
+      "id": 175,
+      "testContent": "",
+      "testGene": "T c.1199C>del",
+      "testResult": "I/I",
+      "resultRemark": "未检测出短尾基因",
+      "deleted": false
+    }, {
+      "id": 175,
+      "testContent": "",
+      "testGene": "HES7 c.T5C",
+      "testResult": "T/T",
+      "resultRemark": "未检测出短尾基因",
+      "deleted": false
+    }, {
+      "id": 175,
+      "testContent": "折耳",
+      "testGene": "TRPV4",
+      "testResult": "N/N",
+      "resultRemark": "未检出折耳基因",
+      "deleted": false
+    }],
+    "geneticFeature": {
+      "id": 1,
+      "deleted": false,
+      "createTime": "2017-07-21 15:33:46",
+      "updateTime": "2018-04-27 18:46:27",
+      "reportId": 1,
+      "sampleNumber": "0000000000000001",
+      "bodyFeature": "[{\"nameCh\":\"毛发特征\",\"image\":\"http://cdn.genefamily.com.cn/idc92d861d0-9ace-432d-bdee-413abff8cb70.jpg\",\"key\":\"卷毛\"},{\"nameCh\":\"尾巴特征\",\"image\":\"http://cdn.genefamily.com.cn/idc14d231c3-e256-42b5-ac53-72716417f2d0.jpg\",\"key\":\"短尾巴\"},{\"nameCh\":\"耳朵特征\",\"image\":\"http://cdn.genefamily.com.cn/idc5f2de79f-540c-4ce0-a2a1-86c8f1f19646.jpg\",\"key\":\"折耳根\"},{\"nameCh\":\"短毛特征\",\"image\":\"http://cdn.genefamily.com.cn/idcba6d7a8f-fd4e-4041-bd2d-e9abe25fa611.jpg\",\"key\":\"长毛\"},{\"nameCh\":\"毛色特征\",\"image\":\"http://cdn.genefamily.com.cn/idcd8392480-08c1-437a-8231-9dea2465f7e5.jpg\",\"key\":\"黑色\"},{\"nameCh\":\"面部特征\",\"image\":\"http://cdn.genefamily.com.cn/idc92b12484-f671-4ba8-accc-b8d43499885f.jpg\",\"key\":\"面具脸\"}]",
+      "humanAge": 20,
+      "humanAgeLevel": "成年",
+      "minHealthBodyWeight": 4.0,
+      "maxHealthBodyWeight": 8.0,
+      "optimalBodyWeight": 6.0,
+      "keepHealthBodyWeightSuggest": "多运动，少吃零食多睡觉。",
+      "exerciseCapabilityScore": 75,
+      "explosiveForce": "一般",
+      "endurance": "强",
+      "iqScore": 102.0,
+      "stickyDegreeScore": 80.0,
+      "friendlyDegree": "友好",
+      "closeMankind": "喜欢"
+    },
+    "reportCount": {
+      "all": 222,
+      "parentage": 2,
+      "parentingadvice": 4,
+      "hereditaryDisease": 145,
+      "health": 10,
+      "nutritionmetabolism": 4,
+      "geneticcharacteristics": 17,
+      "drugsguide": 46,
+      "breed": 5
+    }
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "code": 0,
+  "msg": "成功",
+  "data": {
+    "geneticDisease": {
+      "id": 1,
+      "name": "先天性肌无力综合征 (CMS)",
+      "imageUrl": "/static/img/reportCat/hereditaryDisease/15.jpg",
+      "introduction": "猫先天性肌无力是存在于德文卷毛猫和加拿大无毛猫中的一种常染色体隐性遗传病。患病猫通常在6到20周的时候就可以表现出明显的运动障碍。肌无力是该病的最主要特征，尤其是在运动后或是受到压力和刺激时表现尤为明显。患病猫还会表现出一些其他症状，例如头颈部向腹部的过分弯曲、突出的肩胛骨、头部的非自主摆动以及吞咽困难等。患有该病的猫生存质量通常很差并且在进食时经常会被食物卡住喉咙窒息而死。",
+      "testResult1": "非常严重",
+      "testResult2": "斯芬克斯猫、德文卷毛猫、加拿大无毛猫",
+      "testResult3": "6-20周",
+      "testResult4": "肌无力、易疲劳、吞咽困难。",
+      "testResult5": "到目前为止没有有效的治疗方法，只能在繁育或出生前进行基因筛查来预防。",
+      "deleted": false,
+      "createTime": "2017-05-09 10:05:16",
+      "updateTime": "2018-04-21 08:57:52",
+      "code": "A00001",
+      "aliasName": " Platelet disorder of Greater Swiss Mountain Dog，Bleeding disorder due to P2RY12 defect",
+      "mutationType": "3 bp deletion (del CTC)",
+      "engName": "P2RY12 receptor platelet disorder",
+      "section": "SINGLEGENE_DISEASE",
+      "type": "肌肉疾病",
+      "geneticModel": "常染色体不完全隐性性遗传",
+      "gene": "P2RY12",
+      "severity": 2,
+      "susceptibleVarietiesName": "大瑞士山地犬",
+      "susceptibleVarietiesEngName": "Greater Swiss Mountain Dog",
+      "detail": "",
+      "references": "",
+      "carriedMedicationGuidance": "",
+      "notCarriedMedicationGuidance": ""
+    },
+    "dogNickName": "FULI",
+    "reportDisease": {
+      "id": 172,
+      "deleted": false,
+      "createTime": "2017-07-21 16:53:36",
+      "updateTime": "2018-05-11 10:07:48",
+      "reportId": 1,
+      "sampleNumber": "0000000000000001",
+      "diseaseCode": "A00001",
+      "diseaseName": "P2RY12受体血小板障碍",
+      "diseaseType": "肌肉疾病",
+      "geneType": "AC",
+      "riskTimes": null,
+      "carry": false
+    }
+  }
+}

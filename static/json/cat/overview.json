@@ -1,0 +1,417 @@
+{
+  "code": 0,
+  "msg": "成功",
+  "data": {
+    "dogNickName": "FULI",
+    "geneticDiseaseList": [{
+      "id": 172,
+      "deleted": false,
+      "createTime": "2017-07-21 16:53:36",
+      "updateTime": "2018-05-11 10:07:48",
+      "reportId": 1,
+      "sampleNumber": "0000000000000001",
+      "diseaseCode": "A00001",
+      "diseaseName": "P2RY12受体血小板障碍",
+      "diseaseType": "血液病",
+      "geneType": "AA",
+      "riskTimes": null,
+      "carry": true
+    }, {
+      "id": 173,
+      "deleted": false,
+      "createTime": "2017-07-21 16:53:36",
+      "updateTime": "2018-05-11 10:07:48",
+      "reportId": 1,
+      "sampleNumber": "0000000000000001",
+      "diseaseCode": "B00001",
+      "diseaseName": "先天性甲状腺功能减退（梗犬型）",
+      "diseaseType": "内分泌系统",
+      "geneType": "AG",
+      "riskTimes": null,
+      "carry": true
+    }, {
+      "id": 174,
+      "deleted": false,
+      "createTime": "2017-07-21 16:53:36",
+      "updateTime": "2018-05-11 10:07:48",
+      "reportId": 1,
+      "sampleNumber": "0000000000000001",
+      "diseaseCode": "C00001",
+      "diseaseName": "补体蛋白3（C3）缺乏症",
+      "diseaseType": "免疫疾病",
+      "geneType": "AC",
+      "riskTimes": null,
+      "carry": false
+    }, {
+      "id": 175,
+      "deleted": false,
+      "createTime": "2017-07-21 16:53:36",
+      "updateTime": "2018-05-11 10:07:48",
+      "reportId": 1,
+      "sampleNumber": "0000000000000001",
+      "diseaseCode": "C00002",
+      "diseaseName": "严重联合免疫缺陷症（梗犬型）",
+      "diseaseType": "免疫疾病",
+      "geneType": "CG",
+      "riskTimes": null,
+      "carry": false
+    }, {
+      "id": 176,
+      "deleted": false,
+      "createTime": "2017-07-21 16:53:36",
+      "updateTime": "2018-05-11 10:07:48",
+      "reportId": 1,
+      "sampleNumber": "0000000000000001",
+      "diseaseCode": "C00003",
+      "diseaseName": "严重联合免疫缺陷症（水猎犬型）",
+      "diseaseType": "免疫疾病",
+      "geneType": "AT",
+      "riskTimes": null,
+      "carry": false
+    }, {
+      "id": 177,
+      "deleted": false,
+      "createTime": "2017-07-21 16:53:36",
+      "updateTime": "2018-05-11 10:07:48",
+      "reportId": 1,
+      "sampleNumber": "0000000000000001",
+      "diseaseCode": "C00004",
+      "diseaseName": "严重联合免疫缺陷，x连锁（巴吉度猎犬型）",
+      "diseaseType": "免疫疾病",
+      "geneType": "AC",
+      "riskTimes": null,
+      "carry": false
+    }, {
+      "id": 178,
+      "deleted": false,
+      "createTime": "2017-07-21 16:53:36",
+      "updateTime": "2018-05-11 10:07:48",
+      "reportId": 1,
+      "sampleNumber": "0000000000000001",
+      "diseaseCode": "C00005",
+      "diseaseName": "严重联合免疫缺陷，x连锁（威尔士柯基犬型）",
+      "diseaseType": "免疫疾病",
+      "geneType": "CG",
+      "riskTimes": null,
+      "carry": false
+    }, {
+      "id": 182,
+      "deleted": false,
+      "createTime": "2017-07-21 16:53:36",
+      "updateTime": "2018-05-11 10:07:48",
+      "reportId": 1,
+      "sampleNumber": "0000000000000001",
+      "diseaseCode": "A00002",
+      "diseaseName": "b型血友病（梗犬类型）",
+      "diseaseType": "血液病",
+      "geneType": "AA",
+      "riskTimes": null,
+      "carry": false
+    }, {
+      "id": 183,
+      "deleted": false,
+      "createTime": "2017-07-21 16:53:36",
+      "updateTime": "2018-05-11 10:07:48",
+      "reportId": 1,
+      "sampleNumber": "0000000000000001",
+      "diseaseCode": "A00003",
+      "diseaseName": "b型血友病（罗得西亚背脊犬类型）",
+      "diseaseType": "血液病",
+      "geneType": "GC",
+      "riskTimes": null,
+      "carry": false
+    }],
+    "dogHeadImage": "http://cdn.genefamily.com.cn/idc06762534-b6c4-45c6-8730-469e4141cc5a.jpg",
+    "categoryPercentList": [{
+      "mainColor": "#ffffff",
+      "origin": "地中海",
+      "x": 51.0,
+      "y": 42.0,
+      "categoryName": "比熊犬",
+      "percent": 51.30
+    }, {
+      "mainColor": "#804000",
+      "origin": "德国",
+      "x": 49.0,
+      "y": 33.0,
+      "categoryName": "玩具贵宾",
+      "percent": 26.20
+    }, {
+      "mainColor": "#ffffff",
+      "origin": "德国",
+      "x": 49.0,
+      "y": 33.0,
+      "categoryName": "迷你贵宾",
+      "percent": 22.50
+    }],
+    "healthRiskList": [{
+      "id": 162,
+      "deleted": false,
+      "createTime": "2017-07-21 16:51:35",
+      "updateTime": "2018-04-26 14:29:59",
+      "reportId": 1,
+      "sampleNumber": "0000000000000001",
+      "diseaseCode": "AB00002",
+      "diseaseName": "淋巴瘤",
+      "diseaseType": "血液病",
+      "geneType": "CC",
+      "riskTimes": 0.90,
+      "carry": null
+    }, {
+      "id": 163,
+      "deleted": false,
+      "createTime": "2017-07-21 16:51:35",
+      "updateTime": "2018-04-26 14:29:59",
+      "reportId": 1,
+      "sampleNumber": "0000000000000001",
+      "diseaseCode": "AB00003",
+      "diseaseName": "血管肉瘤",
+      "diseaseType": "血液病",
+      "geneType": "CG",
+      "riskTimes": 0.30,
+      "carry": null
+    }, {
+      "id": 164,
+      "deleted": false,
+      "createTime": "2017-07-21 16:51:35",
+      "updateTime": "2018-04-26 14:29:59",
+      "reportId": 1,
+      "sampleNumber": "0000000000000001",
+      "diseaseCode": "AB00004",
+      "diseaseName": "肥大细胞瘤",
+      "diseaseType": "血液病",
+      "geneType": "AG",
+      "riskTimes": 2.30,
+      "carry": null
+    }, {
+      "id": 165,
+      "deleted": false,
+      "createTime": "2017-07-21 16:51:35",
+      "updateTime": "2018-04-26 14:29:59",
+      "reportId": 1,
+      "sampleNumber": "0000000000000001",
+      "diseaseCode": "AB00005",
+      "diseaseName": "甲状腺功能减退症 ",
+      "diseaseType": "免疫疾病",
+      "geneType": "AC",
+      "riskTimes": 0.30,
+      "carry": null
+    }, {
+      "id": 166,
+      "deleted": false,
+      "createTime": "2017-07-21 16:51:35",
+      "updateTime": "2018-04-26 14:29:59",
+      "reportId": 1,
+      "sampleNumber": "0000000000000001",
+      "diseaseCode": "AB00006",
+      "diseaseName": "耳聋",
+      "diseaseType": "耳病",
+      "geneType": "GG",
+      "riskTimes": 0.40,
+      "carry": null
+    }, {
+      "id": 167,
+      "deleted": false,
+      "createTime": "2017-07-21 16:51:35",
+      "updateTime": "2018-04-26 14:29:59",
+      "reportId": 1,
+      "sampleNumber": "0000000000000001",
+      "diseaseCode": "AB00007",
+      "diseaseName": "骨瘤",
+      "diseaseType": "骨骼疾病",
+      "geneType": "TT",
+      "riskTimes": 0.90,
+      "carry": null
+    }, {
+      "id": 168,
+      "deleted": false,
+      "createTime": "2017-07-21 16:51:35",
+      "updateTime": "2018-04-26 14:29:59",
+      "reportId": 1,
+      "sampleNumber": "0000000000000001",
+      "diseaseCode": "AB00008",
+      "diseaseName": "侏儒症",
+      "diseaseType": "骨骼疾病",
+      "geneType": "AG",
+      "riskTimes": 0.80,
+      "carry": null
+    }, {
+      "id": 169,
+      "deleted": false,
+      "createTime": "2017-07-21 16:51:35",
+      "updateTime": "2018-04-26 14:29:59",
+      "reportId": 1,
+      "sampleNumber": "0000000000000001",
+      "diseaseCode": "AB00009",
+      "diseaseName": "肘关节发育不良",
+      "diseaseType": "骨骼疾病",
+      "geneType": "CC",
+      "riskTimes": 0.70,
+      "carry": null
+    }, {
+      "id": 170,
+      "deleted": false,
+      "createTime": "2017-07-21 16:51:35",
+      "updateTime": "2018-04-26 14:29:59",
+      "reportId": 1,
+      "sampleNumber": "0000000000000001",
+      "diseaseCode": "AB00010",
+      "diseaseName": "髋关节发育不良",
+      "diseaseType": "骨骼疾病",
+      "geneType": "AC",
+      "riskTimes": 0.10,
+      "carry": null
+    }, {
+      "id": 171,
+      "deleted": false,
+      "createTime": "2017-07-21 16:51:35",
+      "updateTime": "2018-04-26 14:29:59",
+      "reportId": 1,
+      "sampleNumber": "0000000000000001",
+      "diseaseCode": "AB00011",
+      "diseaseName": "肌肉萎缩症",
+      "diseaseType": "肌肉疾病",
+      "geneType": "AC",
+      "riskTimes": 0.10,
+      "carry": null
+    }],
+    "geneticFeature": {
+      "id": 1,
+      "deleted": false,
+      "createTime": "2017-07-21 15:33:46",
+      "updateTime": "2018-04-27 18:46:27",
+      "reportId": 1,
+      "sampleNumber": "0000000000000001",
+      "bodyFeature": "[{\"nameCh\":\"毛发特征\",\"image\":\"http://cdn.genefamily.com.cn/idc92d861d0-9ace-432d-bdee-413abff8cb70.jpg\",\"key\":\"卷毛\"},{\"nameCh\":\"尾巴特征\",\"image\":\"http://cdn.genefamily.com.cn/idc14d231c3-e256-42b5-ac53-72716417f2d0.jpg\",\"key\":\"短尾巴\"},{\"nameCh\":\"耳朵特征\",\"image\":\"http://cdn.genefamily.com.cn/idc5f2de79f-540c-4ce0-a2a1-86c8f1f19646.jpg\",\"key\":\"折耳根\"},{\"nameCh\":\"短毛特征\",\"image\":\"http://cdn.genefamily.com.cn/idcba6d7a8f-fd4e-4041-bd2d-e9abe25fa611.jpg\",\"key\":\"长毛\"},{\"nameCh\":\"毛色特征\",\"image\":\"http://cdn.genefamily.com.cn/idcd8392480-08c1-437a-8231-9dea2465f7e5.jpg\",\"key\":\"黑色\"},{\"nameCh\":\"面部特征\",\"image\":\"http://cdn.genefamily.com.cn/idc92b12484-f671-4ba8-accc-b8d43499885f.jpg\",\"key\":\"面具脸\"}]",
+      "humanAge": 20,
+      "humanAgeLevel": "成年",
+      "minHealthBodyWeight": 4.0,
+      "maxHealthBodyWeight": 8.0,
+      "optimalBodyWeight": 6.0,
+      "keepHealthBodyWeightSuggest": "多运动，少吃零食多睡觉。",
+      "exerciseCapabilityScore": 75,
+      "explosiveForce": "一般",
+      "endurance": "强",
+      "iqScore": 102.0,
+      "stickyDegreeScore": 80.0,
+      "friendlyDegree": "友好",
+      "closeMankind": "喜欢"
+    },
+    "familyTree": {
+      "P1": {
+        "image": "http://cdn.genefamily.com.cn/idc520c0147-5b34-4212-b69f-d607e4ad4f0e.jpg",
+        "categoryName": "比熊犬"
+      },
+      "P2": {
+        "image": "http://cdn.genefamily.com.cn/idc520c0147-5b34-4212-b69f-d607e4ad4f0e.jpg",
+        "categoryName": "比熊犬"
+      },
+      "G1": {
+        "image": "http://cdn.genefamily.com.cn/idc520c0147-5b34-4212-b69f-d607e4ad4f0e.jpg",
+        "categoryName": "比熊犬"
+      },
+      "G2": {
+        "image": "http://cdn.genefamily.com.cn/idc520c0147-5b34-4212-b69f-d607e4ad4f0e.jpg",
+        "categoryName": "比熊犬"
+      },
+      "G3": {
+        "image": "http://cdn.genefamily.com.cn/idcfb75ffb8-9fa1-405a-ad8b-777da8327e63.jpg",
+        "categoryName": "玩具贵宾"
+      },
+      "G4": {
+        "image": "http://cdn.genefamily.com.cn/idcc531dc06-fe8a-45aa-9530-dfd2aeca2e64.jpg",
+        "categoryName": "迷你贵宾"
+      },
+      "GG1": {
+        "image": "http://cdn.genefamily.com.cn/idc520c0147-5b34-4212-b69f-d607e4ad4f0e.jpg",
+        "categoryName": "比熊犬"
+      },
+      "GG3": {
+        "image": "http://cdn.genefamily.com.cn/idc520c0147-5b34-4212-b69f-d607e4ad4f0e.jpg",
+        "categoryName": "比熊犬"
+      },
+      "GG2": {
+        "image": "http://cdn.genefamily.com.cn/idc520c0147-5b34-4212-b69f-d607e4ad4f0e.jpg",
+        "categoryName": "比熊犬"
+      },
+      "GG5": {
+        "image": "http://cdn.genefamily.com.cn/idcfb75ffb8-9fa1-405a-ad8b-777da8327e63.jpg",
+        "categoryName": "玩具贵宾"
+      },
+      "GG4": {
+        "image": "http://cdn.genefamily.com.cn/idc520c0147-5b34-4212-b69f-d607e4ad4f0e.jpg",
+        "categoryName": "比熊犬"
+      },
+      "GG7": {
+        "image": "http://cdn.genefamily.com.cn/idcc531dc06-fe8a-45aa-9530-dfd2aeca2e64.jpg",
+        "categoryName": "迷你贵宾"
+      },
+      "GG6": {
+        "image": "http://cdn.genefamily.com.cn/idcfb75ffb8-9fa1-405a-ad8b-777da8327e63.jpg",
+        "categoryName": "玩具贵宾"
+      },
+      "GG8": {
+        "image": "http://cdn.genefamily.com.cn/idcc531dc06-fe8a-45aa-9530-dfd2aeca2e64.jpg",
+        "categoryName": "迷你贵宾"
+      }
+    },
+    "reportCount": {
+      "all": 220,
+      "parentage": 2,
+      "parentingadvice": 4,
+      "hereditaryDisease": 143,
+      "health": 10,
+      "nutritionmetabolism": 4,
+      "geneticcharacteristics": 6,
+      "drugsguide": 46,
+      "breed": 5
+    },
+    "medicalCareSuggest": "SNOOP携带P2RY12受体血小板障碍、和先天性甲状腺功能减退伴甲状腺肿遗传病，该病的大部分症状可以通过每天口服甲状腺激素进行缓解和预防。但是即使在治疗后，甲状腺组织仍可能继续增生，并最终阻碍呼吸道。早期确诊和持续治疗可以延缓病情的发展。受影响的狗不能用于繁殖，父母和兄弟姐妹应该仔细检查这些特征，并进行基因筛查。",
+    "sportSuggest": "SNOOP的健康体重范围是3kg-5kg，最佳体重范围为4kg，易肥胖，运动爆发力强，耐力较差，SNOOP现在体重为3.4kg，属于正常体重。综合以上结果，建议您每天遛狗时间1小时。 SNOOP的髋关节较脆弱，在带狗狗运动的时候，不建议让狗狗做过多的跳跃动作。",
+    "nutritionDemandList": [{
+      "id": 1,
+      "deleted": false,
+      "createTime": "2017-07-21 16:48:11",
+      "updateTime": "2018-04-26 15:23:04",
+      "reportId": 1,
+      "sampleNumber": "0000000000000001",
+      "nutritionDemandCode": "1",
+      "nutritionDemandName": "钙营养需求",
+      "percent": 0.56,
+      "result": "稍高"
+    }, {
+      "id": 2,
+      "deleted": false,
+      "createTime": "2017-07-24 11:38:14",
+      "updateTime": "2018-04-26 15:23:04",
+      "reportId": 1,
+      "sampleNumber": "0000000000000001",
+      "nutritionDemandCode": "2",
+      "nutritionDemandName": "维生素E营养需求",
+      "percent": 0.34,
+      "result": "稍高"
+    }, {
+      "id": 3,
+      "deleted": false,
+      "createTime": "2017-07-24 11:38:14",
+      "updateTime": "2018-04-26 15:23:04",
+      "reportId": 1,
+      "sampleNumber": "0000000000000001",
+      "nutritionDemandCode": "3",
+      "nutritionDemandName": "维生素B12营养需求",
+      "percent": 0.24,
+      "result": "正常"
+    }, {
+      "id": 4,
+      "deleted": false,
+      "createTime": "2017-07-24 11:38:14",
+      "updateTime": "2018-04-26 15:23:04",
+      "reportId": 1,
+      "sampleNumber": "0000000000000001",
+      "nutritionDemandCode": "4",
+      "nutritionDemandName": "铁营养需求",
+      "percent": 0.66,
+      "result": "高"
+    }]
+  }
+}

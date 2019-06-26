@@ -1,0 +1,77 @@
+{
+  "code": 0,
+  "msg": "成功",
+  "data": {
+    "feedSuggest": "SNOOP的体重在健康体重范围内，建议保持当前每天的喂养食量，每天给狗狗提供1000g的食量为佳。SNOOP的钙代谢能力强，建议多补充一些虾、骨头到狗狗的食谱中。",
+    "dogNickName": "萌萌",
+    "trainDogSuggest": "SNOOP的智商为100分，喜欢与人相处，不喜欢陌生人。建议您在训狗的时候多点耐心，多陪伴狗狗，少让他接触陌生人。",
+    "medicalCareSuggest": "SNOOP携带P2RY12受体血小板障碍、和先天性甲状腺功能减退伴甲状腺肿遗传病，该病的大部分症状可以通过每天口服甲状腺激素进行缓解和预防。但是即使在治疗后，甲状腺组织仍可能继续增生，并最终阻碍呼吸道。早期确诊和持续治疗可以延缓病情的发展。受影响的狗不能用于繁殖，父母和兄弟姐妹应该仔细检查这些特征，并进行基因筛查。",
+    "sportSuggest": "SNOOP的健康体重范围是3kg-5kg，最佳体重范围为4kg，易肥胖，运动爆发力强，耐力较差，SNOOP现在体重为3.4kg，属于正常体重。综合以上结果，建议您每天遛狗时间1小时。 SNOOP的髋关节较脆弱，在带狗狗运动的时候，不建议让狗狗做过多的跳跃动作。",
+    "bloodTransfusionSchemeList": [{
+      "id": 172,
+      "bloodType": "A",
+      "adviceA": "可以",
+      "adviceB": "不可以",
+      "adviceAB": "不可以",
+      "deleted": false
+    },{
+      "id": 173,
+      "bloodType": "B",
+      "adviceA": "不可以",
+      "adviceB": "可以",
+      "adviceAB": "不可以",
+      "deleted": false
+    },{
+      "id": 174,
+      "bloodType": "AB",
+      "adviceA": "少量",
+      "adviceB": "不可以",
+      "adviceAB": "可以",
+      "deleted": false
+    }],
+    "breedingSchemeList": [{
+      "id": 172,
+      "bloodType": "母",
+      "gender": "基因型",
+      "bloodTypeA": "b/b",
+      "bloodTypeB": "N/N",
+      "bloodTypeAB": "N/b",
+      "deleted": false
+    },{
+      "id": 173,
+      "bloodType": "B型血",
+      "gender": "b/b",
+      "bloodTypeA": "不溶血",
+      "bloodTypeB": "不溶血",
+      "bloodTypeAB": "50%溶血概率",
+      "deleted": false
+    },{
+      "id": 174,
+      "bloodType": "A型血",
+      "gender": "N/N",
+      "bloodTypeA": "不溶血",
+      "bloodTypeB": "不溶血",
+      "bloodTypeAB": "不溶血",
+      "deleted": false
+    },{
+      "id": 175,
+      "bloodType": "A型血",
+      "gender": "N/b",
+      "bloodTypeA": "50%轻微溶血概率",
+      "bloodTypeB": "不溶血",
+      "bloodTypeAB": "50%轻微溶血概率",
+      "deleted": false
+    }],
+    "reportCount": {
+      "all": 220,
+      "parentage": 4,
+      "parentingAdvice": 13,
+      "hereditaryDisease": 143,
+      "health": 10,
+      "nutritionmetabolism": 4,
+      "geneticcharacteristics": 6,
+      "drugsguide": 46,
+      "breed": 5
+    }
+  }
+}

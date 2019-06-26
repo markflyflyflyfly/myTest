@@ -1,0 +1,57 @@
+{
+  "code": 0,
+  "msg": "成功",
+  "data": {
+    "M_Carousel": [{
+      "button_price": "",
+      "img_url": "/static/img/index/H5-banner1.png",
+      "button_url": "/pet/purchase.html",
+      "button_text": "",
+      "title": "",
+      "desc": ""
+    }, {
+      "button_price": "",
+      "img_url": "/static/img/index/H5-banner3.png",
+      "button_url": "",
+      "button_text": "",
+      "title": "",
+      "desc": "China's first comprehensive pet genetic testing service"
+    }, {
+      "button_price": "",
+      "img_url": "/static/img/index/H5-banner3.png",
+      "button_url": "",
+      "button_text": "",
+      "title": "",
+      "desc": "China's first comprehensive pet genetic testing service"
+    },{
+      "button_price": "",
+      "img_url": "/static/img/index/H5-banner4.png",
+      "button_url": "/pet/activity.html",
+      "button_text": "",
+      "title": "",
+      "desc": ""
+    }],
+    "PC_Carousel": [{
+      "button_price": "",
+      "img_url": "/static/img/index/Web-banner1.png",
+      "button_url": "/pet/purchase.html",
+      "button_text": "",
+      "title": "解读喵星人生命的语言<br>关爱喵星人身体的健康<br>遇见美好！长久陪伴！",
+      "desc": "喵星人不会说话，但是TA的基因会<br>喵星人19对染色体来自父母的遗传，他们<br>将基因串联起来，形成独一无二的喵星人"
+    },{
+      "button_price": "",
+      "img_url": "/static/img/index/Web-banner2.png",
+      "button_url": "",
+      "button_text": "",
+      "title": "PetGene喵星人基因检测旗舰版",
+      "desc": "拥有完整的DNA数据,无限获得增值服务<br>尊享VIP服务<br>一次检测,终身受益"
+    },{
+      "button_price": "",
+      "img_url": "/static/img/index/Web-banner3-2.png",
+      "button_url": "/pet/activity.html",
+      "button_text": "",
+      "title": "",
+      "desc": ""
+    }]
+  }
+}

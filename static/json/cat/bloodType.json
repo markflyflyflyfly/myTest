@@ -1,0 +1,51 @@
+{
+  "code": 0,
+  "msg": "成功",
+  "data": {
+    "dogNickName": "FULI",
+    "reportCount": {
+      "all": 222,
+      "parentage": 2,
+      "parentingadvice": 4,
+      "hereditaryDisease": 145,
+      "health": 10,
+      "nutritionmetabolism": 4,
+      "geneticcharacteristics": 6,
+      "drugsguide": 46,
+      "breed": 5
+    },
+    "list": [{
+      "id": 172,
+      "testContent": "血型（3个突变）",
+      "geneticModel": "常染色体隐性遗传",
+      "testGene": "CMAH",
+      "testResult": "N/N",
+      "resultRemark": "含有A或AB型血",
+      "deleted": false
+    }, {
+      "id": 173,
+      "testContent": "",
+      "geneticModel": "",
+      "testGene": "CMAH 18bp_INS (b allele)",
+      "testResult": "DEL/DEL",
+      "resultRemark": "未检测出突变",
+      "deleted": false
+    }, {
+      "id": 174,
+      "testContent": "",
+      "geneticModel": "",
+      "testGene": "CMAH c.139G>A (b allele)",
+      "testResult": "G/G",
+      "resultRemark": "未检测出突变",
+      "deleted": false
+    }, {
+      "id": 175,
+      "testContent": "",
+      "geneticModel": "",
+      "testGene": "CMAH c.364C>T (c allele)",
+      "testResult": "C/C",
+      "resultRemark": "未检测出突变",
+      "deleted": false
+    }]
+  }
+}

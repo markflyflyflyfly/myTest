@@ -1,0 +1,51 @@
+
+{
+  "code": 0,
+  "msg": "成功",
+  "data": {
+    "geneticDisease": {
+      "id": 1,
+      "name": "红血球丙酮酸激酶缺乏症",
+      "imageUrl": "/static/img/reportCat/hereditaryDisease/01.jpg",
+      "introduction": "猫丙酮酸激酶缺乏症是一种遗传性的溶血性贫血类疾病，属常染色体隐性遗传。其病因是由于红细胞内部一种在厌氧糖酵解过程中起关键作用的丙酮酸激酶（PK）缺乏所导致的。一旦红细胞缺乏这种酶，便不能维持正常的细胞代谢，并进而导致红细胞自溶。这种贫血是间歇性的，并且是非致命性的。",
+      "testResult1": "中度",
+      "testResult2": "阿比西尼亚猫、孟加拉猫、埃及猫、欧洲短毛猫、缅因猫、挪威森林猫、萨凡纳猫、西伯利亚猫、索马里猫、奥西猫、彼得秃猫、拉邦猫、新加坡猫",
+      "testResult3": "6个月-5岁",
+      "testResult4": "临床症状在不同个体差异较大，其症状主要包括：重度嗜睡、虚弱、运动障碍、黄疸、心脏杂音和脾肿大。",
+      "testResult5": "到目前为止没有有效的治疗方法，只能在繁育或出生前进行基因筛查来预防。",
+      "deleted": false,
+      "createTime": "2017-05-09 10:05:16",
+      "updateTime": "2018-04-21 08:57:52",
+      "code": "A00001",
+      "aliasName": " Platelet disorder of Greater Swiss Mountain Dog，Bleeding disorder due to P2RY12 defect",
+      "mutationType": "3 bp deletion (del CTC)",
+      "engName": "P2RY12 receptor platelet disorder",
+      "section": "SINGLEGENE_DISEASE",
+      "type": "血液病",
+      "geneticModel": "常染色体不完全隐性性遗传",
+      "gene": "P2RY12",
+      "severity": 2,
+      "susceptibleVarietiesName": "大瑞士山地犬",
+      "susceptibleVarietiesEngName": "Greater Swiss Mountain Dog",
+      "detail": "",
+      "references": "",
+      "carriedMedicationGuidance": "",
+      "notCarriedMedicationGuidance": ""
+    },
+    "dogNickName": "FULI",
+    "reportDisease": {
+      "id": 172,
+      "deleted": false,
+      "createTime": "2017-07-21 16:53:36",
+      "updateTime": "2018-05-11 10:07:48",
+      "reportId": 1,
+      "sampleNumber": "0000000000000001",
+      "diseaseCode": "A00001",
+      "diseaseName": "P2RY12受体血小板障碍",
+      "diseaseType": "血液病",
+      "geneType": "AC",
+      "riskTimes": null,
+      "carry": false
+    }
+  }
+}

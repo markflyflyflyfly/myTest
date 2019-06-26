@@ -1,0 +1,26 @@
+{
+  "code": 0,
+  "msg": "成功",
+  "data": {
+    "descriptionImageList": ["http://cdn.genefamily.com.cn/idca74f8080-195b-4072-968f-8fde53318f99.jpg"],
+    "subTitle": "爱宠儿®宠物猫基因检测",
+    "price": 9800.00,
+    "name": "PetGene 喵星人基因检测旗舰版",
+    "carouselImageList": ["/static/img/reportCat/purchase/purchase_03.png"],
+    "description": "喵星人基因检测旗舰版采用全基因组测序技术，此技术对喵星人的基因进行全面的检测，得到完整的喵星人全基因组序列，破译喵星人全部的遗传信息。",
+    "reportCount": {
+      "all": 222,
+      "breed": 4,
+      "parentage": 4,
+      "bloodType": 1,
+      "geneticcharacteristics": 17,
+      "hereditaryDisease": 36,
+      "drugsguide": 2,
+      "parentingadvice": 4,
+      "health": 10,
+      "nutritionmetabolism": 4
+    },
+    "id": 2,
+    "thumbnails": "http://cdn.genefamily.com.cn/idcd17a2246-d1e8-4fb9-b8e5-e0cf920a6571.jpg"
+  }
+}

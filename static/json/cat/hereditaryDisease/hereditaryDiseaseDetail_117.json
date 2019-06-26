@@ -1,0 +1,50 @@
+{
+  "code": 0,
+  "msg": "成功",
+  "data": {
+    "geneticDisease": {
+      "id": 1,
+      "name": "周期性低血钾多肌病",
+      "imageUrl": "/static/img/reportCat/hereditaryDisease/17.jpg",
+      "introduction": "缅甸猫低血钾症也称为家族型阵发性低血钾多发性肌病，是一种常染色体隐性遗传病，其标志性特征是血液中较低浓度的钾和较高浓度的磷酸肌酸激酶（肌肉损伤的标志）的含量。临床症状为阵发性的肌无力，其发病部位可能包括全身肌肉，也可能仅为特定部位肌肉。最常见的部位是颈部肌肉，其次是四肢肌肉，因此，其临床症状也主要表现于头部僵直及行走困难。",
+      "testResult1": "非常严重",
+      "testResult2": "澳大利亚雾猫、波米拉猫、德文卷毛猫、蒂凡尼貓、东奇尼猫、加拿大无毛猫、柯尼斯卷毛猫、孟买猫、缅甸猫、新加坡猫",
+      "testResult3": "2-10个月",
+      "testResult4": "阵发性肌无力、头部僵直、行走困难",
+      "testResult5": "该疾病通常不会致命，患病猫可以通过在饮食中定期添加钾离子而控制病情。",
+      "deleted": false,
+      "createTime": "2017-05-09 10:05:16",
+      "updateTime": "2018-04-21 08:57:52",
+      "code": "A00001",
+      "aliasName": " Platelet disorder of Greater Swiss Mountain Dog，Bleeding disorder due to P2RY12 defect",
+      "mutationType": "3 bp deletion (del CTC)",
+      "engName": "P2RY12 receptor platelet disorder",
+      "section": "SINGLEGENE_DISEASE",
+      "type": "肌肉疾病",
+      "geneticModel": "常染色体不完全隐性性遗传",
+      "gene": "P2RY12",
+      "severity": 2,
+      "susceptibleVarietiesName": "大瑞士山地犬",
+      "susceptibleVarietiesEngName": "Greater Swiss Mountain Dog",
+      "detail": "",
+      "references": "",
+      "carriedMedicationGuidance": "",
+      "notCarriedMedicationGuidance": ""
+    },
+    "dogNickName": "FULI",
+    "reportDisease": {
+      "id": 172,
+      "deleted": false,
+      "createTime": "2017-07-21 16:53:36",
+      "updateTime": "2018-05-11 10:07:48",
+      "reportId": 1,
+      "sampleNumber": "0000000000000001",
+      "diseaseCode": "A00001",
+      "diseaseName": "P2RY12受体血小板障碍",
+      "diseaseType": "肌肉疾病",
+      "geneType": "AC",
+      "riskTimes": null,
+      "carry": false
+    }
+  }
+}

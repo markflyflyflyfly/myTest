@@ -1,0 +1,50 @@
+{
+  "code": 0,
+  "msg": "成功",
+  "data": {
+    "geneticDisease": {
+      "id": 1,
+      "name": "先天性肾上腺皮质增生症（CAH）",
+      "imageUrl": "/static/img/reportCat/hereditaryDisease/05.jpg",
+      "introduction": "猫先天性肾上腺皮质增生症（CAH）是由于肾上腺皮质激素分泌过程中所需酶的先天缺陷所致，属常染色体隐性遗。受影响的猫伴有高血压、过度饮水和大量排尿症状，并且+I13尿液中有一种异常难闻的气味。其他临床症状包括生殖器畸形，体型小，被毛油腻，受影响的猫可能会表现出攻击性和侵略性。",
+      "testResult1": "中度",
+      "testResult2": "混合品种",
+      "testResult3": "7周龄",
+      "testResult4": "过度饮水和排尿，体型小，攻击性，生殖器畸形。",
+      "testResult5": "早期诊断后及应及早应用糖皮质激素，或外科手术方法。",
+      "deleted": false,
+      "createTime": "2017-05-09 10:05:16",
+      "updateTime": "2018-04-21 08:57:52",
+      "code": "A00001",
+      "aliasName": " Platelet disorder of Greater Swiss Mountain Dog，Bleeding disorder due to P2RY12 defect",
+      "mutationType": "3 bp deletion (del CTC)",
+      "engName": "P2RY12 receptor platelet disorder",
+      "section": "SINGLEGENE_DISEASE",
+      "type": "内分失调",
+      "geneticModel": "常染色体不完全隐性性遗传",
+      "gene": "P2RY12",
+      "severity": 2,
+      "susceptibleVarietiesName": "大瑞士山地犬",
+      "susceptibleVarietiesEngName": "Greater Swiss Mountain Dog",
+      "detail": "",
+      "references": "",
+      "carriedMedicationGuidance": "",
+      "notCarriedMedicationGuidance": ""
+    },
+    "dogNickName": "FULI",
+    "reportDisease": {
+      "id": 172,
+      "deleted": false,
+      "createTime": "2017-07-21 16:53:36",
+      "updateTime": "2018-05-11 10:07:48",
+      "reportId": 1,
+      "sampleNumber": "0000000000000001",
+      "diseaseCode": "A00001",
+      "diseaseName": "P2RY12受体血小板障碍",
+      "diseaseType": "内分失调",
+      "geneType": "AC",
+      "riskTimes": null,
+      "carry": false
+    }
+  }
+}

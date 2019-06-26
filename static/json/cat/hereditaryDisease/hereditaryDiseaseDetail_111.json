@@ -1,0 +1,50 @@
+{
+  "code": 0,
+  "msg": "成功",
+  "data": {
+    "geneticDisease": {
+      "id": 1,
+      "name": "多囊性肾病 （PKD）",
+      "imageUrl": "/static/img/reportCat/hereditaryDisease/11.jpg",
+      "introduction": "猫多囊性肾病是一种常染色体显性遗传病。据统计，大约38%的波斯猫患有该病。携带一个致病基因就可使猫患病；携带两份致病基因的猫在出生之前就已经胎死腹中，因此是不存在的。借助超声波检查，患病猫在6-8个月时就可被诊断出来。但是临床症状通常在猫成年后才会表现出来。症状主要包括抑郁、厌食、多饮多尿和体重降低。患病猫通常在4-8岁时死于肾衰竭。任何含有波斯猫血统的品系都应注意对多囊性肾病的预防。",
+      "testResult1": "非常严重",
+      "testResult2": "波斯猫、异国短毛猫、夏特尔猫、喜马拉雅猫、土耳其安哥拉猫、苏格兰折耳猫、塞尔凯克卷毛猫、美国短毛猫、俄罗斯蓝猫、布偶猫、伯曼猫、波米拉猫、英国短毛猫、英国长毛猫",
+      "testResult3": "4-8岁",
+      "testResult4": "肾囊肿、慢性肾衰竭胰腺和肝脏囊肿。",
+      "testResult5": "到目前为止没有有效的治疗方法，只能在繁育或出生前进行基因筛查来预防。",
+      "deleted": false,
+      "createTime": "2017-05-09 10:05:16",
+      "updateTime": "2018-04-21 08:57:52",
+      "code": "A00001",
+      "aliasName": " Platelet disorder of Greater Swiss Mountain Dog，Bleeding disorder due to P2RY12 defect",
+      "mutationType": "3 bp deletion (del CTC)",
+      "engName": "P2RY12 receptor platelet disorder",
+      "section": "SINGLEGENE_DISEASE",
+      "type": "肾脏疾病",
+      "geneticModel": "常染色体不完全隐性性遗传",
+      "gene": "P2RY12",
+      "severity": 2,
+      "susceptibleVarietiesName": "大瑞士山地犬",
+      "susceptibleVarietiesEngName": "Greater Swiss Mountain Dog",
+      "detail": "",
+      "references": "",
+      "carriedMedicationGuidance": "",
+      "notCarriedMedicationGuidance": ""
+    },
+    "dogNickName": "FULI",
+    "reportDisease": {
+      "id": 172,
+      "deleted": false,
+      "createTime": "2017-07-21 16:53:36",
+      "updateTime": "2018-05-11 10:07:48",
+      "reportId": 1,
+      "sampleNumber": "0000000000000001",
+      "diseaseCode": "A00001",
+      "diseaseName": "P2RY12受体血小板障碍",
+      "diseaseType": "肾脏疾病",
+      "geneType": "AC",
+      "riskTimes": null,
+      "carry": false
+    }
+  }
+}
